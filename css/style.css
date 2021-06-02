@@ -1,0 +1,172 @@
+@font-face{
+	font-family: Call of Ops Duty;
+	src: url('../fonts/call_of_ops_duty/Call of Ops Duty.otf');
+}
+
+@font-face{
+	font-family: another writer;
+	src: url('../fonts/another_typewriter/atwriter.ttf');
+}
+
+@font-face{
+	font-family: jmh_typewriter;
+	src: url('../fonts/jmh_typewriter/JMH Typewriter.ttf');
+}
+
+body{	
+	background: url('../images/background.jpg') center center no-repeat fixed; 
+	background-size: cover;
+}
+
+.navbar-brand{
+	font-size: 35px;
+	font-family: Call of Ops Duty;
+}
+
+.icones{
+	text-align: center;
+}
+
+container-fluid{
+	background-color: black !important;
+}
+
+.nav-item{
+	padding: 0 19px;
+	color: white;
+	font-weight: bold;
+	font-size: 17px;
+}
+
+#nav-link:hover{
+	color: #882327;
+}
+
+#navbarDropdown{
+	color: white !important;
+}
+
+#navbarDropdown:hover{
+	color: #882327 !important;
+}
+
+.dropdown-menu{
+	background-color: black !important;
+}
+
+.dropdown-item{
+	color: white !important;
+	background-color: black !important;
+	border-radius: 15px;
+} 
+
+#xbox:hover{
+	color: #107C10 !important;
+}
+
+#playstation:hover{
+	color: #003087 !important;
+}
+
+#desktop:hover{
+	color: rgba(255, 0, 0, 0.884) !important;
+}
+
+#site:hover{
+	color: rgb(151, 153, 153) !important;
+}
+
+#instagram:hover{
+	color: #C13584 !important;
+}
+
+#twitter:hover{
+	color: #00acee !important;
+}
+
+#facebook:hover{
+	color: #3b5998 !important;
+}
+
+#newspapers:hover{
+	color: rgba(255, 66, 32, 0.89) !important;
+}
+
+.carousel-caption{
+	background-color: rgb(0, 0, 0, 0.7);
+	right: 0 !important;
+	left: 0 !important;
+	bottom: 0 !important;
+}
+
+.container-noticias{
+	border-radius: 6px;
+	border-width: 1px;
+	border-color: grey;
+}
+
+#noticia{
+	color: white !important;
+}
+
+.container-visitados{
+	border-radius: 6px;
+	border-width: 1px;
+	border-color: grey;
+}
+
+.card{
+	background-color: black !important;
+}
+
+.btn-principal{
+	height: 150px;
+	width: 100px;
+	background-color: rgb(29, 28, 28);
+	border-radius: 5px;	
+}
+
+.card-body{
+	font-family: jmh_typewriter;
+	letter-spacing: 0.5px;
+	font-size: 13px;
+}
+
+.card-title{
+	color: white !important;
+}
+
+.card-title:hover{
+	text-decoration: underline !important;
+	color: white;
+}
+
+.footer{
+	background-color: black;
+	color: white;
+	font-weight: bold;
+	text-align: center;	
+}
+
+#code{
+	color: #FFD700;
+}
+
+#heart{
+	color: red;
+}
+
+#my-link{
+	color: white;
+	text-decoration: none;
+}
+
+#my-link:hover{
+	color: white;
+	text-decoration: underline;
+}
+
+
+
+
+
